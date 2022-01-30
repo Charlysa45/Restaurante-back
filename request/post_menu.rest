@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/menus
+Content-Type: application/json  
+
+{
+    "restaurant":"61f2fd5c42b44c9df0f789db",
+    "menuType":1,
+    "nameMenu":"Sopita de Pan",
+    "ingredients":"Mucho pan, leche con chocolate",
+    "price":2.50
+} 

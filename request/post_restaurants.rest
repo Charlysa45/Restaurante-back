@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/restaurantes
+Content-Type: application/json  
+
+{
+    "socialReason":"Juanito S.A",
+    "name":"Juanitooo",
+    "restType":2,
+    "city":"Alabama",
+    "hourOpen":"06:00",
+    "hourClose":"23:00"
+}

@@ -1,0 +1,11 @@
+PUT http://localhost:3001/api/restaurantes/61f2314f1c604ad4a00aeb1f
+Content-Type: application/json  
+
+{
+  "socialReason": "Juanito S.A",
+  "name": "Juanito xD",
+  "restType": 2,
+  "city": "Alabama",
+  "hourOpen": "06:00",
+  "hourClose": "23:00"
+} 

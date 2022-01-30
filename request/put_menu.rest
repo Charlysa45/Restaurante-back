@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/menus/61f33acc9735f8e768070698
+Content-Type: application/json  
+
+{
+    "menuType":2,
+    "nameMenu":"Helado de Vegettita",
+    "ingredients":"Arepa y Huevo",
+    "price":7
+} 
